@@ -8,9 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="mysql-connector-java-8.0.28" level="project" />
-    <orderEntry type="library" name="Hospital Management System" level="project" />
-    <orderEntry type="library" name="Hospital Management System1" level="project" />
-    <orderEntry type="library" name="Hospital Management System2" level="project" />
     <orderEntry type="library" name="ResultSet2xml" level="project" />
   </component>
 </module>
